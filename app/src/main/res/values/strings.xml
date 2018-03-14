@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LetsChat</string>
+    <string name="needAnAccount">Need an account? Register</string>
+    <string name="need_a_new_account_register">Register Now</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="creat_account">Creat account</string>
+    <string name="create_account_now">create account</string>
+    <string name="log_out">Log out</string>
+    <string name="account_settings">account settings</string>
+    <string name="all_users">all users</string>
+    <string name="you_re_logged_in">You\'re logged in</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="log_in">Log In</string>
+    <string name="enter_your_e_mail">Enter your E-mail</string>
+    <string name="have_an_account_sing_in_now">Sign In</string>
+    <string name="welcome_screen">Welcome to \n Let\'s chat</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="change_image">Change Image</string>
+    <string name="change_status">Change Status</string>
+    <string name="temp_status">This is just a temp status to be put in a profile</string>
+    <string name="display_name">Username</string>
+    <string name="edit">edite</string>
+    <string name="profile_settings">Profile Settings</string>
+    <string name="add">add</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
